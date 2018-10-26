@@ -27,6 +27,7 @@
 * 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
 * 99designs https://99designs.com/tech-blog/
+* Blogs https://www.securityinnovationeurope.com/blog/page/40-blogs-every-software-developer-should-be-reading
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
